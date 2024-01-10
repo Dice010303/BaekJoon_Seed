@@ -10,12 +10,11 @@
 # 예제 출력 1
 # ?
 
-W = input().lower()
-list = list(set(W))
-cnt=[]
 
-for i in list:
-    count=W.count(i)
+
+
+
+
 
 
 
